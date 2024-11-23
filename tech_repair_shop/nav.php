@@ -21,10 +21,9 @@
 </style>
 
 <nav>
-    <a href="index.php">Home</a>
     <a href="customer.php">Customers</a>
     <a href="technician.php">Technicians</a>
     <a href="ticket.php">Tickets</a>
     <a href="transaction.php">Transactions</a>
-    <a href="admin_view.php">SQL Injection Demo</a>
+    <a href="admin_view.php">Admin</a>
 </nav>
